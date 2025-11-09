@@ -16,7 +16,7 @@
 
 ### :man_technologist: About Me :
 
-<h3>Hi, I’m Dominik aka DeaDorfd<br>   Welcome to my Github Profile 👋</h3>
+<h3>Hi, I’m Dominik aka CodeErklärt<br>   Welcome to my Github Profile 👋</h3>
 
 I am mainly a Java Developer. Nevertheless, I am ready to learn a new programming language.
 
